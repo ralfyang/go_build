@@ -2,7 +2,7 @@
 
 ### How to install
 ```
-curl -sL bit.ly/go_buil_instll |bash
+curl -sL bit.ly/go_build_instll |bash
 ```
 
 ### How to use
