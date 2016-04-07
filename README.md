@@ -9,6 +9,8 @@ curl -sL bit.ly/go_buil_instll |bash
 ```
 
 ### How to use
+```
 go_build.sh [Package-name]
+```
 
 
