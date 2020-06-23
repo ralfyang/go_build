@@ -1,4 +1,6 @@
 #!/bin/bash
+### Code from https://github.com/ralfyang/go_build. Powered by Github.
+
 Package_name=$1
 BARR="#################################################################"
 Name=(windows MacOS freebsd RHEL/Ubuntu/Fedora/Suse openbsd netbsd dragonfly plan9)
